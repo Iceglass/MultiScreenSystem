@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "name": "Channel_73",
+      "url": "http://gr.seetv.cc/play/73/FD19D9579A8FA74/mpegts"
+    },
+    {
+      "name": "Channel_86",
+      "url": "http://gr.seetv.cc/play/86/FD19D9579A8FA74/mpegts"
+    },
+    {
+      "name": "Channel_220",
+      "url": "http://gr.seetv.cc/play/220/FD19D9579A8FA74/mpegts"
+    },
+    {
+      "name": "Channel_786",
+      "url": "http://gr.seetv.cc/play/786/FD19D9579A8FA74/mpegts"
+    }
+  ]
+}

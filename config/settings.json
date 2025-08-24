@@ -1,0 +1,23 @@
+{
+  "thresholds": {
+    "fps": {
+      "warn_ratio": 0.70,
+      "crit_ratio": 0.40
+    },
+    "bitrate": {
+      "warn_kbps": 300,
+      "crit_kbps": 100
+    },
+    "stall": {
+      "warn_ms": 3000,
+      "crit_ms": 7000
+    }
+  },
+  "alerts": {
+    "webhook": {
+      "enabled": false,
+      "url": "http://127.0.0.1:9000/hook",
+      "timeout_ms": 1500
+    }
+  }
+}

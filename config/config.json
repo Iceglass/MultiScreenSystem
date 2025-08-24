@@ -1,0 +1,12 @@
+{
+  "web": {
+    "port": 8080,
+    "enable": true
+  },
+  "streams": { "enable": true },
+  "logging": {
+    "file": "logs/app.log",
+    "level": "info"
+  },
+  "decoder": { "prefer": "cpu" }
+}
